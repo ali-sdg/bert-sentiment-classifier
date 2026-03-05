@@ -1,1 +1,6 @@
-src/final_model/
+final_model/
+.gitignore
+.git/
+__pycache__/
+*.pyc
+.env
