@@ -1,8 +1,7 @@
-# News Category Classifier
 
 A fine-tuned DistilBERT model for multi-class news classification, deployed as an interactive web app on Hugging Face Spaces.
 
-[Live Demo](https://huggingface.co/spaces/ali-sdg/bert-sentiment-classifier) | [Model on HuggingFace](https://huggingface.co/ali-sdg/bert-sentiment-classifier) | [Dataset: AG News](https://huggingface.co/datasets/ag_news)
+[Live Demo](https://huggingface.co/spaces/ali-sdg/bert-sentiment-classifier) | [Model on HuggingFace](https://huggingface.co/ali-sdg/bert-sentiment-classifier) 
 
 ---
 
@@ -137,6 +136,3 @@ print(f"{label} ({confidence:.2%})")
 
 ---
 
-## License
-
-MIT
